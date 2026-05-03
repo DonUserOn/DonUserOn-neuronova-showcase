@@ -16,20 +16,16 @@ Unlike a normal chatbot that only gives direct answers, NeuroNova behaves like a
 ## 📸 Screenshots
 
 ### Home / Welcome Screen
-
-![NeuroNova Home](home.png)
+![NeuroNova Home](screenshots/home.png)
 
 ### Multiple Conversations Sidebar
-
-![Multiple Conversations](conversations.png)
+![Multiple Conversations](screenshots/conversations.png)
 
 ### Python Learning Path
-
-![Python Lesson](python-lesson.png)
+![Python Lesson](screenshots/python-lesson.png)
 
 ### Light / Dark Mode
-
-![Theme Mode](theme.png)
+![Theme Mode](screenshots/theme.png)
 
 ---
 
