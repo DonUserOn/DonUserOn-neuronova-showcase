@@ -9,7 +9,7 @@ Unlike a normal chatbot that only gives direct answers, NeuroNova behaves like a
 ## 🚀 Live Demo
 
 🔗 Try NeuroNova here:  
-https://neuronova-ai-learning-platform.streamlit.app/
+[https://neuronova-ai-learning-platform.streamlit.app](https://neuronova-ai-learning-platform.streamlit.app)
 
 ---
 
